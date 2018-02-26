@@ -1,13 +1,16 @@
-<div>
+<div class="app">
   <header>
-    <h1>NG CATS</h1>
+    <h1 class="app-title">NG CATS</h1>
+    <h2 class="app-subtitle">Encuentra tu mejor amigo</h2>
   </header>
   <main>
     <div class="container" *ngFor="let cat of cats">
       <img src={{cat.image}} alt="">
-      <h2>Name: {{cat.name}}</h2>
-      <p>Description: {{cat.description}}</p>
-      <button>Adopt me</button>
+      <div class="info-cat">
+        <h2><span>Nombre:</span> {{cat.name}}</h2>
+        <p><span>Descripción:</span> {{cat.description}}</p>
+      </div>
+      <button>Adoptame</button>
     </div>
   </main>
 </div>
