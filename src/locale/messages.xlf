@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="b8ace78ff64681b8222b465f3d3f54bfc38a27e1" datatype="html">
+        <source>
+      Encuentra tu mejor amigo
+    </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <note priority="1" from="description">An introduction header for this sample</note>
+        <note priority="1" from="meaning">meaning</note>
+      </trans-unit>
+      <trans-unit id="Placeholder" datatype="html">
+        <source>Escribe el nombre del gatito</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="FirstCatName" datatype="html">
+        <source>
+          <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Nombre:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Felix
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="SecondCatDescription" datatype="html">
+        <source>
+          <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Descripción:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Felix tiene 12 años y es el mejor gato del mundo.
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <note priority="1" from="description">Cat history and description</note>
+        <note priority="1" from="meaning">Description paragrahp</note>
+      </trans-unit>
+      <trans-unit id="Button" datatype="html">
+        <source>Adoptame</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="SecondCatName" datatype="html">
+        <source>
+          <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Nombre:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Donatella
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ThirdCatName" datatype="html">
+        <source>
+          <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Nombre:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Mapalé
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ThirdCatDescription" datatype="html">
+        <source>
+          <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Descripción:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Mapale tiene 7 años y es el mas tierno de todos.
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+        <note priority="1" from="description">Cat history and description</note>
+        <note priority="1" from="meaning">Description paragrahp</note>
+      </trans-unit>
+      <trans-unit id="FourthCatName" datatype="html">
+        <source>
+          <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Nombre:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Milú
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="FourthCatDescription" datatype="html">
+        <source>
+          <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Descripción:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Milú tiene 5 años y le gusta ser la reina de la casa.
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+        <note priority="1" from="description">Cat history and description</note>
+        <note priority="1" from="meaning">Description paragrahp</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
