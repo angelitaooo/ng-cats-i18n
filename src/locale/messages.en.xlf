@@ -16,7 +16,7 @@
       </trans-unit>
       <trans-unit id="Placeholder" datatype="html">
         <source>Escribe el nombre del gatito</source>
-        <target>Write the cats name</target>
+        <target>Write the cat name</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.ts</context>
           <context context-type="linenumber">9</context>
@@ -26,17 +26,35 @@
         <source>
           <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Nombre:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Felix
         </source>
-        <target>Name: felix</target>
+        <target>
+          <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Name:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Felix
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.ts</context>
           <context context-type="linenumber">15</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="SecondCatDescription" datatype="html">
+      <trans-unit id="FirstCatDescription" datatype="html">
         <source>
           <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Descripción:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Felix tiene 12 años y es el mejor gato del mundo.
         </source>
-        <target>Description: felix is the best cat in the world</target>
+        <target>
+          <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Description:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Felix is 12 years old and is the best cat in the world.
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <note priority="1" from="description">Cat history and description</note>
+        <note priority="1" from="meaning">Description paragrahp</note>
+      </trans-unit>
+      <trans-unit id="SecondCatDescription" datatype="html">
+        <source>
+          <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Descripción:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Donatella tiene 1 año y es muy juguetona.
+        </source>
+        <target>
+          <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Description:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Donatella is 1 year old and is so funny
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.ts</context>
           <context context-type="linenumber">18</context>
@@ -72,7 +90,9 @@
         <source>
           <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Nombre:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Donatella
         </source>
-        <target>Name:</target>
+        <target>
+          <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Name:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Donatella
+       </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.ts</context>
           <context context-type="linenumber">27</context>
@@ -82,7 +102,7 @@
         <source>
           <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Nombre:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Mapalé
         </source>
-        <target>Name</target>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Name:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Mapalé</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.ts</context>
           <context context-type="linenumber">39</context>
@@ -92,7 +112,7 @@
         <source>
           <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Descripción:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Mapale tiene 7 años y es el mas tierno de todos.
         </source>
-        <target>Description</target>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Descripción:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Mapale is 7 years old is the cutest cat.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.ts</context>
           <context context-type="linenumber">42</context>
@@ -104,7 +124,7 @@
         <source>
           <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Nombre:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Milú
         </source>
-        <target>Name</target>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Name:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Milú</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.ts</context>
           <context context-type="linenumber">51</context>
@@ -114,7 +134,7 @@
         <source>
           <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Descripción:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Milú tiene 5 años y le gusta ser la reina de la casa.
         </source>
-        <target>Description</target>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Descripción:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Milu is 5 years old and she is the queen.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.ts</context>
           <context context-type="linenumber">54</context>

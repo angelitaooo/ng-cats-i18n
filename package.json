@@ -9,7 +9,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "i18n": "ng serve --aot --locale en --i18n-format xlf --i18n-file src/locale/messages.en.xlf"
+    "i18n": "ng serve --aot --locale en --i18n-format xlf --i18n-file src/locale/messages.en.xlf",
+    "locale": "ng xi18n --outputPath src/locale"
   },
   "private": true,
   "dependencies": {
