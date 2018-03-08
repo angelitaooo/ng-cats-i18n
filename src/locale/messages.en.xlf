@@ -6,7 +6,7 @@
         <source>
           Encuentra tu mejor amigo
         </source>
-        <target>Find your best friend<target>
+        <target>Find your best friend</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.ts</context>
           <context context-type="linenumber">6</context>
@@ -16,7 +16,7 @@
       </trans-unit>
       <trans-unit id="Placeholder" datatype="html">
         <source>Escribe el nombre del gatito</source>
-        <target><target>
+        <target>Write the cats name</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.ts</context>
           <context context-type="linenumber">9</context>
@@ -26,7 +26,7 @@
         <source>
           <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Nombre:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Felix
         </source>
-        <target><target>
+        <target>Name: felix</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.ts</context>
           <context context-type="linenumber">15</context>
@@ -36,7 +36,7 @@
         <source>
           <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Descripción:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Felix tiene 12 años y es el mejor gato del mundo.
         </source>
-        <target><target>
+        <target>Description: felix is the best cat in the world</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.ts</context>
           <context context-type="linenumber">18</context>
@@ -50,7 +50,7 @@
       </trans-unit>
       <trans-unit id="Button" datatype="html">
         <source>Adoptame</source>
-        <target><target>
+        <target>Adopt me</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.ts</context>
           <context context-type="linenumber">22</context>
@@ -72,7 +72,7 @@
         <source>
           <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Nombre:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Donatella
         </source>
-        <target><target>
+        <target>Name:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.ts</context>
           <context context-type="linenumber">27</context>
@@ -82,7 +82,7 @@
         <source>
           <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Nombre:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Mapalé
         </source>
-        <target><target>
+        <target>Name</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.ts</context>
           <context context-type="linenumber">39</context>
@@ -92,7 +92,7 @@
         <source>
           <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Descripción:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Mapale tiene 7 años y es el mas tierno de todos.
         </source>
-        <target><target>
+        <target>Description</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.ts</context>
           <context context-type="linenumber">42</context>
@@ -104,7 +104,7 @@
         <source>
           <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Nombre:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Milú
         </source>
-        <target><target>
+        <target>Name</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.ts</context>
           <context context-type="linenumber">51</context>
@@ -114,7 +114,7 @@
         <source>
           <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Descripción:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Milú tiene 5 años y le gusta ser la reina de la casa.
         </source>
-        <target><target>
+        <target>Description</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.ts</context>
           <context context-type="linenumber">54</context>
