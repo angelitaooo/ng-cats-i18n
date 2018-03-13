@@ -112,7 +112,7 @@
         <source>
           <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Descripción:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Mapale tiene 7 años y es el mas tierno de todos.
         </source>
-        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Descripción:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Mapale is 7 years old is the cutest cat.</target>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Description:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Mapale is 7 years old is the cutest cat.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.ts</context>
           <context context-type="linenumber">42</context>
@@ -134,7 +134,7 @@
         <source>
           <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Descripción:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Milú tiene 5 años y le gusta ser la reina de la casa.
         </source>
-        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Descripción:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Milu is 5 years old and she is the queen.</target>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Description:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Milu is 5 years old and she is the queen.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.ts</context>
           <context context-type="linenumber">54</context>
